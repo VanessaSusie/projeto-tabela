@@ -1,0 +1,43 @@
+.margin {
+
+    margin-left:5px;
+}
+
+body {
+
+    font-family: 'Montserrat', sans-serif;
+    background-image:linear-gradient(to bottom right,violet, rgb(233, 233, 149), rgb(165, 238, 70));
+    background-attachment: fixed;
+}
+
+h1 {
+
+    font-size: 50px;
+}
+
+p{
+
+    font-size: 20px;
+}
+ 
+table {
+
+    width:90%;
+    
+}
+
+table, td, tr, th {
+
+    border:1px solid rgb(2, 2, 2);
+    
+ }
+
+ th {
+
+    background-color: rgb(206, 90, 241);
+ }
+
+ td {
+
+    padding:5px;
+ }
